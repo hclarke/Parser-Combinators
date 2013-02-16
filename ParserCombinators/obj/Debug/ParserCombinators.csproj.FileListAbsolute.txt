@@ -1,0 +1,5 @@
+C:\Users\notal_000\Documents\GitHub\ParserCombinators\ParserCombinators\obj\Debug\ParserCombinators.csprojResolveAssemblyReference.cache
+C:\Users\notal_000\Documents\GitHub\ParserCombinators\ParserCombinators\bin\Debug\ParserCombinators.dll
+C:\Users\notal_000\Documents\GitHub\ParserCombinators\ParserCombinators\bin\Debug\ParserCombinators.pdb
+C:\Users\notal_000\Documents\GitHub\ParserCombinators\ParserCombinators\obj\Debug\ParserCombinators.dll
+C:\Users\notal_000\Documents\GitHub\ParserCombinators\ParserCombinators\obj\Debug\ParserCombinators.pdb
