@@ -16,5 +16,9 @@ namespace ParserCombinators {
         public ParseResult<TSource, TResult2> Select<TResult2>(Func<TResult, TResult2> selector) {
             return new ParseResult<TSource, TResult2>(selector(value), context);
         }
+
+        public static implicit operator TResult(ParseResult<TSource, TResult> result) {
+            return result.value;
+        }
     }
 }
